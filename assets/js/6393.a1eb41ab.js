@@ -1,0 +1,1 @@
+(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[6393],{86393:function(e){"use strict";e.exports=JSON.parse('{"containerRef":{"defaultValue":null,"description":"","name":"containerRef","declarations":[{"fileName":"../core/src/search/SearchInput.tsx","name":"TypeLiteral"}],"required":false,"type":{"name":"HTMLElement"}}}')}}]);
